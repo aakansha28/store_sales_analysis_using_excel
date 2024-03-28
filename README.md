@@ -1,1 +1,1 @@
-# store_sales_analysis_using_excel
+This project includes data cleaning, preprocessing and data analysis of a store's annual sales data using MS Excel. A report is also generated after data analysis and insights to improve store sales are proposed.
